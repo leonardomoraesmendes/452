@@ -1,0 +1,217 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.3.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de Linha de comando (mais recente primeiro):
+:wq!
+:x
+:q
+
+# Histórico de Expressões de busca (mais recente primeiro):
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+"0	LINE	0
+	http_access deny CONTEMTORRENT
+""1	LINE	0
+	export KEY_EMAIL=mail@host.domain
+"2	LINE	0
+	export KEY_EMAIL=mail@host.domain
+"3	LINE	0
+	
+"4	LINE	0
+	pudim.com.br
+"5	LINE	0
+	entra.com.br
+"-	CHAR	0
+	#
+
+# Marcas nos arquivos:
+'0  14  14  /etc/openvpn/security.conf
+'1  24  0  /etc/openvpn/security.conf
+'2  73  19  /etc/openvpn/2.0/vars
+'3  5  2  /etc/squid3/acls/listanegra.list
+'4  4  0  /etc/squid3/acls/listabranca.list
+'5  84  0  /etc/squid3/squid.conf
+'6  124  15  /etc/squid3/squid.conf
+'7  1  0  /etc/squid3/acls/listanegra.list
+'8  117  0  /etc/squid3/squid.conf
+'9  6  11  /etc/squid3/acls/listanegra.list
+
+# Lista de saltos (mais recente primeiro):
+-'  14  14  /etc/openvpn/security.conf
+-'  1  0  /etc/openvpn/security.conf
+-'  24  0  /etc/openvpn/security.conf
+-'  73  19  /etc/openvpn/2.0/vars
+-'  69  0  /etc/openvpn/2.0/vars
+-'  1  0  /etc/openvpn/2.0/vars
+-'  5  2  /etc/squid3/acls/listanegra.list
+-'  1  0  /etc/squid3/acls/listanegra.list
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  6  11  /etc/squid3/acls/listanegra.list
+-'  7  11  /etc/squid3/acls/listanegra.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  5  2  /etc/squid3/acls/listanegra.list
+-'  1  0  /etc/squid3/acls/listanegra.list
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  6  11  /etc/squid3/acls/listanegra.list
+-'  7  11  /etc/squid3/acls/listanegra.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  73  19  /etc/openvpn/2.0/vars
+-'  69  0  /etc/openvpn/2.0/vars
+-'  1  0  /etc/openvpn/2.0/vars
+-'  5  2  /etc/squid3/acls/listanegra.list
+-'  1  0  /etc/squid3/acls/listanegra.list
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  6  11  /etc/squid3/acls/listanegra.list
+-'  7  11  /etc/squid3/acls/listanegra.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  5  2  /etc/squid3/acls/listanegra.list
+-'  1  0  /etc/squid3/acls/listanegra.list
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  6  11  /etc/squid3/acls/listanegra.list
+-'  7  11  /etc/squid3/acls/listanegra.list
+-'  84  0  /etc/squid3/squid.conf
+-'  1  0  /etc/squid3/squid.conf
+-'  124  15  /etc/squid3/squid.conf
+-'  117  0  /etc/squid3/squid.conf
+-'  4  0  /etc/squid3/acls/listabranca.list
+-'  1  0  /etc/squid3/acls/listabranca.list
+-'  84  0  /etc/squid3/squid.conf
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> /etc/openvpn/security.conf
+	"	14	14
+	^	14	15
+	.	14	33
+	+	14	33
+
+> /etc/openvpn/2.0/vars
+	"	73	19
+	^	73	20
+	.	53	19
+	+	64	21
+	+	65	22
+	+	66	24
+	+	67	29
+	+	69	0
+	+	68	36
+	+	69	22
+	+	70	25
+	+	71	16
+	+	53	19
+
+> /etc/squid3/acls/listanegra.list
+	"	5	2
+	^	5	3
+	.	5	2
+	+	6	0
+	+	1	0
+	+	5	2
+
+> /etc/squid3/acls/listabranca.list
+	"	4	0
+	^	4	9
+	.	4	8
+	+	3	11
+	+	4	8
+
+> /etc/squid3/squid.conf
+	"	84	0
+	^	124	16
+	.	84	0
+	+	90	0
+	+	89	0
+	+	90	0
+	+	118	3
+	+	119	15
+	+	124	16
+	+	137	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	58	0
+	+	90	0
+	+	91	0
+	+	92	0
+	+	93	0
+	+	117	0
+	+	118	3
+	+	120	30
+	+	121	25
+	+	122	28
+	+	123	29
+	+	124	0
+	+	123	4
+	+	124	15
+	+	84	0
